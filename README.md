@@ -1,10 +1,10 @@
 ### [6.Design_PV_Layout_Solar-Rooftop](https://github.com/itipunsnk-max/Design_PV_Layout_Solar-Rooftop) - การออกแบบแผงโซลาร์บนหลังคา
-https://design-pv-layout-solar-rooftop.streamlit.app/
+[App :](https://design-pv-layout-solar-rooftop.streamlit.app/)
 
 ---
 
 ### [7.Solar-CABLE-Wiring-Raceway-V.1](https://github.com/itipunsnk-max/Solar-CABLE-Wiring-Raceway-V.1.git) - การออกสายไฟ + Voltage Drop และ Raceway/Wireway
-https://solar-cable-wiring-raceway-v1.streamlit.app/
+[App :](https://solar-cable-wiring-raceway-v1.streamlit.app/)
 
 ---
 
